@@ -3,8 +3,6 @@
 - Currently learning JavaScript, React, MongoDB.
 - I know C, C++, Java. In future, I have a plan to learn Python.
 - Reach me out: Email: dasavijit.aiub@gmail.com
--               Twitter - @/AvijitD35328347
--               LinkedIn - @avijit-das94/
 <!--
 **Avijit7102/Avijit7102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
