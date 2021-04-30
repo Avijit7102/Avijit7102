@@ -1,5 +1,8 @@
 ### Hi, I am Avijit 👋
-
+- Completing my AS on Computer Science from LaGuardia Community College, NY.
+- Currently learning JavaScript, React, MongoDB.
+- I know C, C++, Java. In future, I have a plan to learn Python.
+- Reach me out: Twitter - @AvijitD35328347 LinkedIn - @https://www.linkedin.com/in/avijit-das94/
 <!--
 **Avijit7102/Avijit7102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
