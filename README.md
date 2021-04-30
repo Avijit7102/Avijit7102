@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Avijit 👋
 
 <!--
 **Avijit7102/Avijit7102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
