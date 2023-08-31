@@ -1,5 +1,5 @@
 ### Hi, I am Avijit, Welcome to my profile 👋
-- Completing my AS Next December 2021 on Computer Science Major from LaGuardia Community College, NY.
+- I earned my Associate Degree in Computer Science from LaGuardia Community College in New York, and I am currently pursuing my Bachelor's Degree in Computer Science at Queens College, also in New York.
 - Currently learning JavaScript, ReactJS, MongoDB, besides that practicing problem solving on Leetcode using C++ language.
 - I know C, C++, Java. In future, I have a plan to learn Python.
 - Reach me out: Email: dasavijit.aiub@gmail.com, [Twitter - @AvijitD35328347](https://twitter.com/AvijitD35328347), [LinkedIn - @avijit-das94](https://www.linkedin.com/in/avijit-das94/)
